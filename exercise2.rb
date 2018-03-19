@@ -14,3 +14,6 @@ puts "enter meal price"
 	#question 3 
 	 puts "the result of 45628 multiplied by 7839 is #{c}"
 
+	 #question 4
+	p (10 < 20 && 30 < 20) || !(10 == 11) 
+
