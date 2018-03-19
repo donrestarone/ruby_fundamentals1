@@ -19,6 +19,6 @@ input = ""
 		
 		end 
 		
-		puts "#{distance.to_s}"
+		puts "#{distance travelled distance.to_s}"
 	end 
 
